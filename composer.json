@@ -1,0 +1,55 @@
+{
+    "name": "abstractapi/php-phone-validation",
+    "description": "AbstractPhoneValidation - Wrapper to quickly start using the powerful AbstractAPI's Phone Validation service in your projects.",
+    "version": "0.1.0",
+    "type": "library",
+    "keywords": ["API", "Abstract", "Library", "PHP", "PhoneValidation", "Wrapper", "abstract", "abstractapi", "api", "geolocation", "ip", "ip geolocation", "library", "phone-api", "phone-authentication", "phone-validation", "phone-verification", "php", "php-library", "verify-phone-numbers", "wrapper"]
+    ,
+    "homepage": "https://github.com/abstractapi/php-phone-validation",
+    "readme": "README.md",
+    "time": "2021-04-09",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Bouchet",
+            "email": "libraries@abstractapi.com",
+            "homepage": "https://www.abstractapi.com"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/abstractapi/php-phone-verification",
+        "docs": "https://app.abstractapi.com/api/phone-verification/documentation"
+    },
+    "scripts": {
+        "check": [
+
+        ],
+        "fix": [
+
+        ],
+        "versions": [
+
+        ]
+    },
+    "require": {
+        "php": ">=5.6",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "7.0.*",
+        "vlucas/phpdotenv": "^2.0"
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Abstractapi\\PhoneValidation\\": "src/AbstractPhoneValidation/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Abstractapi\\PhoneValidation\\Tests\\": "tests/"
+        }
+    }
+}
