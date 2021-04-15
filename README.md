@@ -1,4 +1,4 @@
-# php-phone-validation
+# AbstractAPI php-phone-validation library
 
 Integrate the powerful [Phone Validation API from Abstract](https://www.abstractapi.com/phone-validation-api) in your PHP project in a few lines of code.
 
