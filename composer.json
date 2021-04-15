@@ -1,7 +1,7 @@
 {
     "name": "abstractapi/php-phone-validation",
     "description": "AbstractPhoneValidation - Wrapper to quickly start using the powerful AbstractAPI's Phone Validation service in your projects.",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "type": "library",
     "keywords": ["API", "Abstract", "Library", "PHP", "PhoneValidation", "Wrapper", "abstract", "abstractapi", "api", "geolocation", "ip", "ip geolocation", "library", "phone-api", "phone-authentication", "phone-validation", "phone-verification", "php", "php-library", "verify-phone-numbers", "wrapper"]
     ,
